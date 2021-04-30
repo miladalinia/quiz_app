@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laravel Quiz/Test Project with PDF Results
 
 Quite typical project where user goes through some set of questions - quiz, survey, assessment or similar.
@@ -43,3 +44,7 @@ Basically, feel free to use and re-use any way you want.
 - FREE E-book: [50 Laravel Quick Tips (and counting)](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)
 - Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
 - Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
+=======
+# quiz_app
+quiz online
+>>>>>>> 247a833232fcbf1bda2acffec2c634202f0e1a8a
